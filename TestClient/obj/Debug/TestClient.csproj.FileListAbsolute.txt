@@ -1,0 +1,9 @@
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\AppRepairs_WCFService_TestClient\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\AppRepairs_WCFService_TestClient\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\AppRepairs_WCFService_TestClient\TestClient\obj\Debug\TestClient.frmProducts.resources
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\AppRepairs_WCFService_TestClient\TestClient\obj\Debug\TestClient.Properties.Resources.resources
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\AppRepairs_WCFService_TestClient\TestClient\obj\Debug\TestClient.csproj.GenerateResource.Cache
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\AppRepairs_WCFService_TestClient\TestClient\bin\Debug\TestClient.exe
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\AppRepairs_WCFService_TestClient\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\AppRepairs_WCFService_TestClient\TestClient\obj\Debug\TestClient.exe
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\AppRepairs_WCFService_TestClient\TestClient\obj\Debug\TestClient.pdb

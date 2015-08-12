@@ -1,0 +1,6 @@
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\AppRepairs_WCFService_TestClient\AppRepairs_WCFService_TestClient\bin\AppRepairs_WCFService_TestClient.dll.config
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\AppRepairs_WCFService_TestClient\AppRepairs_WCFService_TestClient\bin\AppRepairs_WCFService_TestClient.dll
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\AppRepairs_WCFService_TestClient\AppRepairs_WCFService_TestClient\bin\AppRepairs_WCFService_TestClient.pdb
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\AppRepairs_WCFService_TestClient\AppRepairs_WCFService_TestClient\obj\Debug\WCFService.csprojResolveAssemblyReference.cache
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\AppRepairs_WCFService_TestClient\AppRepairs_WCFService_TestClient\obj\Debug\AppRepairs_WCFService_TestClient.dll
+C:\Users\Spencer\OneDrive\Programming\Computer Programming 3\Labs\AppRepairs_WCFService_TestClient\AppRepairs_WCFService_TestClient\obj\Debug\AppRepairs_WCFService_TestClient.pdb
